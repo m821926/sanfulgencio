@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wiskunde</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Settings">Settings</string>
+    <string name="Play">Play</string>
+    <string name="Digits">Digits</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Exit">Exit</string>
+    <string name="Music">Music</string>
+    <string name="MusicOn">Music On</string>
+    <string name="MusicOff">Music Off</string>
+    <string name="Unused">unused</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="btn_Verify">Verify</string>
+    <string name="Wrong_Answer_Attempts_Left">"You made some mistakes. Try again !"</string>
+    <string name="Wrong_Answer_No_Attempts_Left">Wrong answer and no attempts left</string>
+    <string name="Hint_Number0To9">Please Type a Number from 0 to 9</string>
+    <string name="TimeIsUp">Sorry, The time is up.</string>
+    <string name="Settings_Label">Settings...</string>
+    <string name="Settings_Shortcut">s</string>
+    <string name="PlayTime">Seconds to Play</string>
+
+</resources>
